@@ -1,0 +1,19 @@
+.basic {
+    background-color: #f2aba9;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.larger {
+    font-size: 24px;
+}
+
+#blueLabel {
+    color: #0000f5;
+    font-size: 36px;
+}
+
+#greenLabel {
+    background-color: #a1fc8f;
+    font-size: 24px;
+    font-weight: bold;
+}
